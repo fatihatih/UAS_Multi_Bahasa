@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UAS</string>
+    
+    //Layout
+    <string name="nama_aplikasi">ANIMALS INFORMATION</string>
+    <string name="ikan">FISH</string>
+    <string name="burung">BIRD</string>
+    <string name="serangga">INSECT</string>
+    <string name="klik">Click On The Animal Image to See More</string>
+    <string name="tentang_saya">About Me</string>
+
+
+    //Biodata
+    <string name="mahasiswa">STUDENT BIODATA</string>
+    <string name="nama">Name : M. Fatih Fahrurozi</string>
+    <string name="nim">NIM : 200602014</string>
+    <string name="prodi">Study program : Technical Information</string>
+    <string name="fakultas">Fakulty : Technique</string>
+    <string name="hobi">Hobby : Basketball,Sing,Futsal</string>
+
+    //List
+    <string name="daftar_title">List of  Breeds</string>
+    <string name="burung_title">Bird</string>
+    <string name="ikan_title">Fish</string>
+    <string name="serangga_title">Insect</string>
+    <string name="kenari_nama">Yorkshire Walnut</string>
+    <string name="kenari_asal">UK</string>
+    <string name="kenari_deskripsi">\"Yorkshire canaries are a type of sweet songbird originating from England.\"</string>
+    <string name="murai_nama">Stone Murai</string>
+    <string name="murai_asal">INDONESIA</string>
+    <string name="murai_deskripsi">\"This type of bird is also known as the forest kurica. In Indonesia itself, this type of bird is often found on the island of Sumatra.\"</string>
+    <string name="love_nama">Love Bird</string>
+    <string name="love_asal">INDONESIA</string>
+    <string name="love_deskripsi">Love Birds is a type of chirping bird that has a loud, loud, and melodious chirping sound.</string>
+    <string name="cucak_nama">Cucak Rowo</string>
+    <string name="cucak_asal">INDONESIA</string>
+    <string name="cucak_deskripsi">\"Cucak Rowo is a capable type of chirping bird. Where this bird can make loud, clear, and echoing chirping sounds.\"</string>
+    <string name="jalak_nama">Bali Starling</string>
+    <string name="jalak_asal">INDONESIA</string>
+    <string name="jalak_deskripsi">\"The Bali Starling (Leucopsar rothschildi) is a medium-sized songbird, about 25cm long,[1] from the Sturnidae tribe.\"</string>
+    <string name="cupak_nama">Siamese fighting fish</string>
+    <string name="cupang_asal">INDONESIA</string>
+    <string name="cupang_deskripsi">\"Bettas, fighting fish, or fighting fish are freshwater fish whose native habitat is several countries in Southeast Asia, including Indonesia, Thailand, Malaysia, Brunei Darussalam, Singapore and Vietnam.\"</string>
+    <string name="hiu_nama">Shark</string>
+    <string name="hiu_asal" translatable="false">World Ocean</string>
+    <string name="hiu_deskripsi">\"It is one of the most deadly predators in the sea.\"</string>
+    <string name="guppy_nama">Guppies</string>
+    <string name="guppy_asal">UK</string>
+    <string name="guppy_deskripsi">Guppies have a body shape like a woman wearing a skirt. The shape is also interesting because this fish has a size of less than 2.5 cm when measured from head to tail.</string>
+    <string name="molly_nama">\"Molly Fish\"</string>
+    <string name="molly_asal">INDONESIA</string>
+    <string name="molly_deskripsi">\"Molly fish are often also called balloon fish because most mollies have a distended stomach and round body.\"</string>
+    <string name="koki_nama">Goldfish</string>
+    <string name="koki_asal">INDONESIA</string>
+    <string name="koki_deskripsi">This fish has the characteristics of a distended belly and a bright and beautiful color that makes many people like it.</string>
+    <string name="kepik_nama">Ladybug Hijacker</string>
+    <string name="kepik_asal">INDONESIA</string>
+    <string name="kepik_deskripsi">\"This insect is an insect that eats various types of eggs from pests that attach to leaves on plants.\"</string>
+    <string name="lebah_nama">Honey bee</string>
+    <string name="lebah_asal">ASIA</string>
+    <string name="lebah_deskripsi">Bees are insects that help flowers and other plants in the pollination process so that plants can grow and develop easily.</string>
+    <string name="laba_nama">Spider</string>
+    <string name="laba_asal">THE WHOLE WORLD</string>
+    <string name="laba_deskripsi">\"Spiders are one of the most powerful insects to eradicate a variety of other annoying insects.\"</string>
+    <string name="ladygup_nama">Ladygup Ladybug</string>
+    <string name="ladygup_asal">INDONESIA.</string>
+    <string name="ladygup_deskripsi">\"This type of ladybug will be a predator and eat a variety of different insects that interfere with plants in the house.\"</string>
+    <string name="lace_nama">Lacewings</string>
+    <string name="lace_asal">INDONESIA.</string>
+    <string name="lace_deskripsi">Lacewings or lion flea is an insect whose body has a greenish color and seems transparent.</string>
+
+    //Data_burung
+
+</resources>
