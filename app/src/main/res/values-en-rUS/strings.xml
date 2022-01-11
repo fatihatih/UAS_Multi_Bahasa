@@ -9,6 +9,10 @@
     <string name="serangga">INSECT</string>
     <string name="klik">Click On The Animal Image to See More</string>
     <string name="tentang_saya">About Me</string>
+     <string name="daftar_title">List of  Breeds</string>
+    <string name="burung_title">Bird</string>
+    <string name="ikan_title">Fish</string>
+    <string name="serangga_title">Insect</string>
 
 
     //Biodata
@@ -19,11 +23,7 @@
     <string name="fakultas">Fakulty : Technique</string>
     <string name="hobi">Hobby : Basketball,Sing,Futsal</string>
 
-    //List
-    <string name="daftar_title">List of  Breeds</string>
-    <string name="burung_title">Bird</string>
-    <string name="ikan_title">Fish</string>
-    <string name="serangga_title">Insect</string>
+    //Data Burung
     <string name="kenari_nama">Yorkshire Walnut</string>
     <string name="kenari_asal">UK</string>
     <string name="kenari_deskripsi">\"Yorkshire canaries are a type of sweet songbird originating from England.\"</string>
@@ -39,6 +39,8 @@
     <string name="jalak_nama">Bali Starling</string>
     <string name="jalak_asal">INDONESIA</string>
     <string name="jalak_deskripsi">\"The Bali Starling (Leucopsar rothschildi) is a medium-sized songbird, about 25cm long,[1] from the Sturnidae tribe.\"</string>
+    
+    //Data Ikan
     <string name="cupak_nama">Siamese fighting fish</string>
     <string name="cupang_asal">INDONESIA</string>
     <string name="cupang_deskripsi">\"Bettas, fighting fish, or fighting fish are freshwater fish whose native habitat is several countries in Southeast Asia, including Indonesia, Thailand, Malaysia, Brunei Darussalam, Singapore and Vietnam.\"</string>
@@ -54,6 +56,8 @@
     <string name="koki_nama">Goldfish</string>
     <string name="koki_asal">INDONESIA</string>
     <string name="koki_deskripsi">This fish has the characteristics of a distended belly and a bright and beautiful color that makes many people like it.</string>
+    
+    //Data Serangga
     <string name="kepik_nama">Ladybug Hijacker</string>
     <string name="kepik_asal">INDONESIA</string>
     <string name="kepik_deskripsi">\"This insect is an insect that eats various types of eggs from pests that attach to leaves on plants.\"</string>
@@ -69,7 +73,5 @@
     <string name="lace_nama">Lacewings</string>
     <string name="lace_asal">INDONESIA.</string>
     <string name="lace_deskripsi">Lacewings or lion flea is an insect whose body has a greenish color and seems transparent.</string>
-
-    //Data_burung
 
 </resources>
