@@ -1,21 +1,27 @@
 <resources>
-    <string name="app_name">MIDDLE</string>
+    <string name="app_name">INFORMASI HEWAN</string>
+    
+    //Layout
     <string name="nama_aplikasi">INFORMASI HEWAN</string>
     <string name="burung">BURUNG</string>
     <string name="ikan">IKAN</string>
     <string name="serangga">SERANGGA</string>
     <string name="klik">(Klik Gambar Hewan Untuk Melihat Lebih Banyak)</string>
     <string name="tentang_saya">Tentang Saya</string>
+    <string name="daftar_title">"DAFTAR BERBAGAI RAS "</string>
+    <string name="burung_title">Burung</string>
+    <string name="ikan_title">Ikan</string>
+    <string name="serangga_title">Serangga</string>
+    
+    //Biodata
     <string name="mahasiswa">BIODATA MAHASISWA</string>
     <string name="nama">Nama : M. Fatih Fahrurozi</string>
     <string name="nim">Nim : 200602014</string>
     <string name="prodi">Prodi : Teknik Informatika</string>
     <string name="fakultas">Fakultas : Teknik</string>
     <string name="hobi">Hobi : Basket,Nyanyi,Futsal</string>
-    <string name="daftar_title">"DAFTAR BERBAGAI RAS "</string>
-    <string name="burung_title">Burung</string>
-    <string name="ikan_title">Ikan</string>
-    <string name="serangga_title">Serangga</string>
+   
+    //Data Burung
     <string name="kenari_nama">Kenari Yorkshire</string>
     <string name="kenari_asal">INGGRIS</string>
     <string name="kenari_deskripsi">\"Kenari Yorkshire merupakan jenis burung kicau bersuara merdu yang berasal dari Inggris. \"</string>
@@ -31,6 +37,8 @@
     <string name="jalak_nama">Jalak Bali</string>
     <string name="jalak_asal">INDONESIA</string>
     <string name="jalak_deskripsi">\"Jalak Bali (Leucopsar rothschildi) adalah sejenis burung pengicau berukuran sedang, dengan panjang lebih kurang 25cm,[1] dari suku Sturnidae. \"</string>
+    
+    //Daftar Ikan
     <string name="cupak_nama">Ikan Cupang</string>
     <string name="cupang_asal">INDONESIA</string>
     <string name="cupang_deskripsi">\"Cupang, ikan laga, atau ikan adu siam adalah ikan air tawar yang habitat asalnya adalah beberapa negara di Asia Tenggara, antara lain Indonesia, Thailand, Malaysia, Brunei Darussalam, Singapura,dan Vietnam. \"</string>
@@ -46,6 +54,8 @@
     <string name="koki_nama">Ikan Mas Koki</string>
     <string name="koki_asal">INDONESIA</string>
     <string name="koki_deskripsi">Ikan ini memiliki karakteristik perut buncit dan warna yang cerah dan cantik yang membuat banyak orang menyukainya.</string>
+    
+    //Data Serangga
     <string name="kepik_nama">Kepik Pembajak</string>
     <string name="kepik_asal">INDONESIA</string>
     <string name="kepik_deskripsi">\" serangga ini merupakan serangga yang mengonsumsi berbagai jenis telur dari hama pengganggu yang menempel pada daun di tanaman.\"</string>
