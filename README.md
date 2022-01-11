@@ -1,5 +1,5 @@
-# HewanPedia
+# Aplikasi Informasi Hewan Multi Bahasa
 
-Menggunakan List View
+Contoh Aplikasi Multibahasa
 
 
